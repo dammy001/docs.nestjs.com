@@ -57,7 +57,7 @@
     "@types/marked": "4.0.8",
     "@types/node": "16.11.43",
     "@types/prismjs": "1.26.0",
-    "@types/rimraf": "3.0.2",
+    "@types/rimraf": "4.0.5",
     "chokidar": "3.5.3",
     "concurrently": "7.2.2",
     "dgeni": "0.4.14",
